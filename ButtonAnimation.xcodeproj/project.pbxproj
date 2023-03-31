@@ -11,6 +11,7 @@
 		D266BC4A29D7448600717C8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D266BC4929D7448600717C8E /* ContentView.swift */; };
 		D266BC4C29D7448600717C8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D266BC4B29D7448600717C8E /* Assets.xcassets */; };
 		D266BC4F29D7448600717C8E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D266BC4E29D7448600717C8E /* Preview Assets.xcassets */; };
+		D266BC5629D744A700717C8E /* ButtonPress.swift in Sources */ = {isa = PBXBuildFile; fileRef = D266BC5529D744A700717C8E /* ButtonPress.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D266BC4929D7448600717C8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D266BC4B29D7448600717C8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D266BC4E29D7448600717C8E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D266BC5529D744A700717C8E /* ButtonPress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPress.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D266BC4729D7448600717C8E /* ButtonAnimationApp.swift */,
 				D266BC4929D7448600717C8E /* ContentView.swift */,
+				D266BC5529D744A700717C8E /* ButtonPress.swift */,
 				D266BC4B29D7448600717C8E /* Assets.xcassets */,
 				D266BC4D29D7448600717C8E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D266BC5629D744A700717C8E /* ButtonPress.swift in Sources */,
 				D266BC4A29D7448600717C8E /* ContentView.swift in Sources */,
 				D266BC4829D7448600717C8E /* ButtonAnimationApp.swift in Sources */,
 			);
